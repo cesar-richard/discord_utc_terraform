@@ -1,0 +1,12 @@
+channels: ./**/*channels.tf
+discord_permissions: ./**/*permissions.tf
+
+roles: roles.tf
+
+discord_server: server.tf
+
+variables: ./*/variables.tf
+
+invites: invites.tf
+
+modules: ./*/**/*
